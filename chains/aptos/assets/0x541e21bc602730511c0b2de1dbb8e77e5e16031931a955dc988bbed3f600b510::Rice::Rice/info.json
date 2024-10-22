@@ -1,0 +1,9 @@
+{
+    "id": "0x541e21bc602730511c0b2de1dbb8e77e5e16031931a955dc988bbed3f600b510::Rice::Rice",
+    "name": "Rice Token",
+    "symbol": "Rice",
+    "decimals": 6,
+    "coinGeckoId": null,
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x541e21bc602730511c0b2de1dbb8e77e5e16031931a955dc988bbed3f600b510::Rice::Rice/logo.png",
+    "website": null
+}

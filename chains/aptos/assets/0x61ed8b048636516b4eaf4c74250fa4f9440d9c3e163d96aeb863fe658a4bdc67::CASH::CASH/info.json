@@ -1,0 +1,9 @@
+{
+    "id": "0x61ed8b048636516b4eaf4c74250fa4f9440d9c3e163d96aeb863fe658a4bdc67::CASH::CASH",
+    "name": "CASH",
+    "symbol": "CASH",
+    "decimals": 6,
+    "coinGeckoId": null,
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x61ed8b048636516b4eaf4c74250fa4f9440d9c3e163d96aeb863fe658a4bdc67::CASH::CASH/logo.png",
+    "website": "https://app.zion.bet"
+}

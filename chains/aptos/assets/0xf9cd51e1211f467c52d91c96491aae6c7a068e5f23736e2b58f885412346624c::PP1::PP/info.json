@@ -1,0 +1,9 @@
+{
+    "id": "0xf9cd51e1211f467c52d91c96491aae6c7a068e5f23736e2b58f885412346624c::PP1::PP",
+    "name": "PP token",
+    "symbol": "PP",
+    "decimals": 6,
+    "coinGeckoId": null,
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0xf9cd51e1211f467c52d91c96491aae6c7a068e5f23736e2b58f885412346624c::PP1::PP/logo.png",
+    "website": null
+}

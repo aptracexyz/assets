@@ -1,0 +1,9 @@
+{
+    "id": "0x377adc4848552eb2ea17259be928001923efe12271fef1667e2b784f04a7cf3a",
+    "name": "Thala Token",
+    "symbol": "THL",
+    "decimals": 8,
+    "coinGeckoId": "thala",
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x377adc4848552eb2ea17259be928001923efe12271fef1667e2b784f04a7cf3a/logo.png",
+    "website": "https://www.thala.fi"
+}

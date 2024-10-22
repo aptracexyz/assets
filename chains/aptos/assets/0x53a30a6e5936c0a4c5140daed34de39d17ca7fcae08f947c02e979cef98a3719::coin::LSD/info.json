@@ -1,0 +1,7 @@
+{
+    "id": "0x53a30a6e5936c0a4c5140daed34de39d17ca7fcae08f947c02e979cef98a3719::coin::LSD",
+    "name": "Liquidswap",
+    "symbol": "LSD",
+    "decimals": 8,
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x53a30a6e5936c0a4c5140daed34de39d17ca7fcae08f947c02e979cef98a3719::coin::LSD/logo.png"
+}

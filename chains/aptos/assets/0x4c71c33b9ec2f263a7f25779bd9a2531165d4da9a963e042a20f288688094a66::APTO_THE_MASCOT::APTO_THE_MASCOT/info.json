@@ -1,0 +1,9 @@
+{
+    "id": "0x4c71c33b9ec2f263a7f25779bd9a2531165d4da9a963e042a20f288688094a66::APTO_THE_MASCOT::APTO_THE_MASCOT",
+    "name": "Apto The Mascot",
+    "symbol": "APTO",
+    "decimals": 8,
+    "coinGeckoId": null,
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x4c71c33b9ec2f263a7f25779bd9a2531165d4da9a963e042a20f288688094a66::APTO_THE_MASCOT::APTO_THE_MASCOT/logo.png",
+    "website": "https://aptothemascot.com/"
+}

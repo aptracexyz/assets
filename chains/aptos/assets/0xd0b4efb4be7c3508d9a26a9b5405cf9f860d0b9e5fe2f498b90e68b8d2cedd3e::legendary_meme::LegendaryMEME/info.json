@@ -1,0 +1,9 @@
+{
+    "id": "0xd0b4efb4be7c3508d9a26a9b5405cf9f860d0b9e5fe2f498b90e68b8d2cedd3e::legendary_meme::LegendaryMEME",
+    "name": "Legendary Meme",
+    "symbol": "LME",
+    "decimals": 8,
+    "coinGeckoId": "legendary-meme",
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0xd0b4efb4be7c3508d9a26a9b5405cf9f860d0b9e5fe2f498b90e68b8d2cedd3e::legendary_meme::LegendaryMEME/logo.png",
+    "website": "https://legendaryme.me"
+}

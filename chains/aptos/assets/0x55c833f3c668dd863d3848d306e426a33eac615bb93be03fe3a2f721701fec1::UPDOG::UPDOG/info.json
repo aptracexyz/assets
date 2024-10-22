@@ -1,0 +1,9 @@
+{
+    "id": "0x55c833f3c668dd863d3848d306e426a33eac615bb93be03fe3a2f721701fec1::UPDOG::UPDOG",
+    "name": "UPDOG",
+    "symbol": "UPDOG",
+    "decimals": 6,
+    "coinGeckoId": null,
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x55c833f3c668dd863d3848d306e426a33eac615bb93be03fe3a2f721701fec1::UPDOG::UPDOG/logo.png",
+    "website": "https://updogapt.xyz"
+}

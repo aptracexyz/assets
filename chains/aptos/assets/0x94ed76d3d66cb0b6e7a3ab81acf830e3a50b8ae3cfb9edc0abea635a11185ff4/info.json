@@ -1,0 +1,9 @@
+{
+    "id": "0x94ed76d3d66cb0b6e7a3ab81acf830e3a50b8ae3cfb9edc0abea635a11185ff4",
+    "name": "Move Dollar",
+    "symbol": "MOD",
+    "decimals": 8,
+    "coinGeckoId": "move-dollar",
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x94ed76d3d66cb0b6e7a3ab81acf830e3a50b8ae3cfb9edc0abea635a11185ff4/logo.png",
+    "website": "https://thala.fi"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "0x4d981c48d254c4cea6110090ad1c2890d5ea35d49cbed28e76c0d3bb90ddf873::crab_coin::CrabCoin",
+    "name": "Crab Coin",
+    "symbol": "CRAB",
+    "decimals": 8,
+    "coinGeckoId": null,
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x4d981c48d254c4cea6110090ad1c2890d5ea35d49cbed28e76c0d3bb90ddf873::crab_coin::CrabCoin/logo.png",
+    "website": "https://www.aptosshaker.xyz"
+}

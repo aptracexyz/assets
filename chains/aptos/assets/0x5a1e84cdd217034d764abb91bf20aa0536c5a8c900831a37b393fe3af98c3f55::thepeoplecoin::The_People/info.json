@@ -1,0 +1,9 @@
+{
+    "id": "0x5a1e84cdd217034d764abb91bf20aa0536c5a8c900831a37b393fe3af98c3f55::thepeoplecoin::The_People",
+    "name": "The People",
+    "symbol": "People",
+    "decimals": 6,
+    "coinGeckoId": null,
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x5a1e84cdd217034d764abb91bf20aa0536c5a8c900831a37b393fe3af98c3f55::thepeoplecoin::The_People/logo.png",
+    "website": "https://thepeopleapt.xyz"
+}

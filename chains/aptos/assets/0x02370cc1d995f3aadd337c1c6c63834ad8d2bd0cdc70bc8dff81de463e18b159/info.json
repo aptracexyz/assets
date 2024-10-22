@@ -1,0 +1,9 @@
+{
+    "id": "0x02370cc1d995f3aadd337c1c6c63834ad8d2bd0cdc70bc8dff81de463e18b159",
+    "name": "Liquidswap",
+    "symbol": "LSD",
+    "decimals": 8,
+    "coinGeckoId": "pontem-liquidswap",
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x02370cc1d995f3aadd337c1c6c63834ad8d2bd0cdc70bc8dff81de463e18b159/logo.png",
+    "website": null
+}

@@ -1,0 +1,9 @@
+{
+    "id": "0xb614bfdf9edc39b330bbf9c3c5bcd0473eee2f6d4e21748629cc367869ece627",
+    "name": "Staked Aptos Coin",
+    "symbol": "stAPT",
+    "decimals": 8,
+    "coinGeckoId": "amnis-staked-aptos-coin",
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0xb614bfdf9edc39b330bbf9c3c5bcd0473eee2f6d4e21748629cc367869ece627/logo.png",
+    "website": "https://stake.amnis.finance"
+}

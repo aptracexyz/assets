@@ -1,0 +1,9 @@
+{
+    "id": "0xdd89c0e695df0692205912fb69fc290418bed0dbe6e4573d744a6d5e6bab6c13::coin::T",
+    "name": "Solana",
+    "symbol": "SOL",
+    "decimals": 8,
+    "coinGeckoId": "solana",
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0xdd89c0e695df0692205912fb69fc290418bed0dbe6e4573d744a6d5e6bab6c13::coin::T/logo.png",
+    "website": null
+}

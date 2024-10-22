@@ -1,0 +1,9 @@
+{
+    "id": "0x65957cb717d1ec5e13c003cbad0d20d8f7f95236ea0f8bb8c419e533eda73890::TOAST::TOAST",
+    "name": "Aptoast",
+    "symbol": "TOAST",
+    "decimals": 8,
+    "coinGeckoId": null,
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x65957cb717d1ec5e13c003cbad0d20d8f7f95236ea0f8bb8c419e533eda73890::TOAST::TOAST/logo.png",
+    "website": "https://aptoast.com"
+}

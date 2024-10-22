@@ -1,0 +1,9 @@
+{
+    "id": "0x2778b277644d375721766abfff0df2adca795f6cbae9f02ff1c95ce9adb6ee28::aptos_shiba_coin::AptosShibaCoin",
+    "name": "Aptos Shiba",
+    "symbol": "APTSHIBA",
+    "decimals": 6,
+    "coinGeckoId": null,
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x2778b277644d375721766abfff0df2adca795f6cbae9f02ff1c95ce9adb6ee28::aptos_shiba_coin::AptosShibaCoin/logo.png",
+    "website": null
+}

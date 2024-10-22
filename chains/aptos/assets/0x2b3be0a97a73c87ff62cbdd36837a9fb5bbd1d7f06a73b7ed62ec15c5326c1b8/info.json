@@ -1,0 +1,9 @@
+{
+    "id": "0x2b3be0a97a73c87ff62cbdd36837a9fb5bbd1d7f06a73b7ed62ec15c5326c1b8",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "coinGeckoId": "usd-coin",
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x2b3be0a97a73c87ff62cbdd36837a9fb5bbd1d7f06a73b7ed62ec15c5326c1b8/logo.png",
+    "website": null
+}

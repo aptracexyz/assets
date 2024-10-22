@@ -1,0 +1,9 @@
+{
+    "id": "0xdcfa079344261bfde45e7f6281df091743b8d3098bf9e26e1c0212fc5b070621::zaaptos_token::ZaaptosCoin",
+    "name": "Zaaptos Coin",
+    "symbol": "ZAAP",
+    "decimals": 8,
+    "coinGeckoId": null,
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0xdcfa079344261bfde45e7f6281df091743b8d3098bf9e26e1c0212fc5b070621::zaaptos_token::ZaaptosCoin/logo.png",
+    "website": null
+}

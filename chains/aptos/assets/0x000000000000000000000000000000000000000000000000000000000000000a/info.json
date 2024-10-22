@@ -1,0 +1,9 @@
+{
+    "id": "0x000000000000000000000000000000000000000000000000000000000000000a",
+    "name": "Aptos Coin",
+    "symbol": "APT",
+    "decimals": 8,
+    "coinGeckoId": "aptos",
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x000000000000000000000000000000000000000000000000000000000000000a/logo.png",
+    "website": "https://aptosfoundation.org"
+}

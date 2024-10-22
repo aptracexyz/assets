@@ -1,0 +1,9 @@
+{
+    "id": "0x13341e81b2c5960623f31cfee0b1ef674cbf23ca302852159b542adc6afe0f37::TEH_DORK_KNITE::TEH_DORK_KNITE",
+    "name": "Teh Dork Knite",
+    "symbol": "BAPTMAN",
+    "decimals": 8,
+    "coinGeckoId": null,
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x13341e81b2c5960623f31cfee0b1ef674cbf23ca302852159b542adc6afe0f37::TEH_DORK_KNITE::TEH_DORK_KNITE/logo.png",
+    "website": "https://baptmantoken.com"
+}

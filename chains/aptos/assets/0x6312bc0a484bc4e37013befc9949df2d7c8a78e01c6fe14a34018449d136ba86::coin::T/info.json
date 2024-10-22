@@ -1,0 +1,9 @@
+{
+    "id": "0x6312bc0a484bc4e37013befc9949df2d7c8a78e01c6fe14a34018449d136ba86::coin::T",
+    "name": "Wrapped BNB",
+    "symbol": "WBNB",
+    "decimals": 8,
+    "coinGeckoId": "binancecoin",
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x6312bc0a484bc4e37013befc9949df2d7c8a78e01c6fe14a34018449d136ba86::coin::T/logo.png",
+    "website": null
+}

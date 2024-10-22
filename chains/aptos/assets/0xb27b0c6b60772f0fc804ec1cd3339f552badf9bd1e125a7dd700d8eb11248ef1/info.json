@@ -1,0 +1,9 @@
+{
+    "id": "0xb27b0c6b60772f0fc804ec1cd3339f552badf9bd1e125a7dd700d8eb11248ef1",
+    "name": "DooDoo",
+    "symbol": "DooDoo",
+    "decimals": 8,
+    "coinGeckoId": "doodoo",
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0xb27b0c6b60772f0fc804ec1cd3339f552badf9bd1e125a7dd700d8eb11248ef1/logo.png",
+    "website": "https://doodoo.io"
+}

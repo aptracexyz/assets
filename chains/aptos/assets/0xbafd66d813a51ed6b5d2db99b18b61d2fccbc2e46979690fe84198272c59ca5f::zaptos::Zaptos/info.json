@@ -1,0 +1,9 @@
+{
+    "id": "0xbafd66d813a51ed6b5d2db99b18b61d2fccbc2e46979690fe84198272c59ca5f::zaptos::Zaptos",
+    "name": "ZAPTOS",
+    "symbol": "ZAPT",
+    "decimals": 8,
+    "coinGeckoId": null,
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0xbafd66d813a51ed6b5d2db99b18b61d2fccbc2e46979690fe84198272c59ca5f::zaptos::Zaptos/logo.png",
+    "website": null
+}

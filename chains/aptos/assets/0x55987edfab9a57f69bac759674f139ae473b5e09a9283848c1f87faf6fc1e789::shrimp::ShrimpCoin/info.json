@@ -1,0 +1,9 @@
+{
+    "id": "0x55987edfab9a57f69bac759674f139ae473b5e09a9283848c1f87faf6fc1e789::shrimp::ShrimpCoin",
+    "name": "SHRIMP",
+    "symbol": "SHRIMP",
+    "decimals": 2,
+    "coinGeckoId": null,
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x55987edfab9a57f69bac759674f139ae473b5e09a9283848c1f87faf6fc1e789::shrimp::ShrimpCoin/logo.png",
+    "website": "https://shrimp.app"
+}

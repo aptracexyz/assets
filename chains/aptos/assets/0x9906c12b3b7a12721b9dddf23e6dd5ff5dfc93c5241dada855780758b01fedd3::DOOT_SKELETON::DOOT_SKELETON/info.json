@@ -1,0 +1,9 @@
+{
+    "id": "0x9906c12b3b7a12721b9dddf23e6dd5ff5dfc93c5241dada855780758b01fedd3::DOOT_SKELETON::DOOT_SKELETON",
+    "name": "DOOT Skeleton",
+    "symbol": "DOOT",
+    "decimals": 8,
+    "coinGeckoId": null,
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x9906c12b3b7a12721b9dddf23e6dd5ff5dfc93c5241dada855780758b01fedd3::DOOT_SKELETON::DOOT_SKELETON/logo.png",
+    "website": "https://skeltal.io"
+}

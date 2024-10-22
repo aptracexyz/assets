@@ -1,0 +1,9 @@
+{
+    "id": "0x1605f6d99b995e8ddb6200fdccccf97a2497fe1f024a46f6c178a501f0d1b60e::ACAT::ACAT",
+    "name": "AptoCat",
+    "symbol": "ACAT",
+    "decimals": 6,
+    "coinGeckoId": null,
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x1605f6d99b995e8ddb6200fdccccf97a2497fe1f024a46f6c178a501f0d1b60e::ACAT::ACAT/logo.png",
+    "website": "https://www.aptocat.xyz"
+}

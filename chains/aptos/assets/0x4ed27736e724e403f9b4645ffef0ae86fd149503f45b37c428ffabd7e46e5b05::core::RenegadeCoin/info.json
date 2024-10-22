@@ -1,0 +1,9 @@
+{
+    "id": "0x4ed27736e724e403f9b4645ffef0ae86fd149503f45b37c428ffabd7e46e5b05::core::RenegadeCoin",
+    "name": "RENA",
+    "symbol": "RENA",
+    "decimals": 8,
+    "coinGeckoId": null,
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x4ed27736e724e403f9b4645ffef0ae86fd149503f45b37c428ffabd7e46e5b05::core::RenegadeCoin/logo.png",
+    "website": "https://www.renegades.build"
+}

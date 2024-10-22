@@ -1,0 +1,9 @@
+{
+    "id": "0xb81588af2f7d291e8e57f673ec74d4a38f0654633ad6bbeb1cfd4bb0550ae0df",
+    "name": "Gari",
+    "symbol": "GARI",
+    "decimals": 8,
+    "coinGeckoId": "gari-network",
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0xb81588af2f7d291e8e57f673ec74d4a38f0654633ad6bbeb1cfd4bb0550ae0df/logo.png",
+    "website": "https://gari.network"
+}

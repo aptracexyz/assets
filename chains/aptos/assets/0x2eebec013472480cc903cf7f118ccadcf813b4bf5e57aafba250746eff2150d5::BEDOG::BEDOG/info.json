@@ -1,0 +1,9 @@
+{
+    "id": "0x2eebec013472480cc903cf7f118ccadcf813b4bf5e57aafba250746eff2150d5::BEDOG::BEDOG",
+    "name": "Baby Edog",
+    "symbol": "BEDOG",
+    "decimals": 6,
+    "coinGeckoId": null,
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x2eebec013472480cc903cf7f118ccadcf813b4bf5e57aafba250746eff2150d5::BEDOG::BEDOG/logo.png",
+    "website": "https://edog.baby"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "0x543c5660aa4d496687e2068c11765f04607c4f4b639a83233a9333604fb8ce59::stakestone_ether::StakeStoneEther",
+    "name": "StakeStone Ether",
+    "symbol": "STONE",
+    "decimals": 8,
+    "coinGeckoId": "stakestone-ether",
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0x543c5660aa4d496687e2068c11765f04607c4f4b639a83233a9333604fb8ce59::stakestone_ether::StakeStoneEther/logo.png",
+    "website": "https://stakestone.io"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "0xced3e98a47279b4d39a75fa8da867e2e8383d5d8ce7e59b2964a9469616a761b::coin::T",
+    "name": "Wrapped SUI",
+    "symbol": "WSUI",
+    "decimals": 8,
+    "coinGeckoId": null,
+    "logo": "https://raw.githubusercontent.com/aptracexyz/assets/main/chains/aptos/assets/0xced3e98a47279b4d39a75fa8da867e2e8383d5d8ce7e59b2964a9469616a761b::coin::T/logo.png",
+    "website": null
+}
